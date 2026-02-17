@@ -16,7 +16,7 @@
 - Náhľad do Entity Component Systému
 
 ## PROJEKTY A UČENIE
-[C# A UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
-[VYTVORENÉ HRY V UNITY](https://github.com/markojuhasz/hry-v-unity)
-[C++ A UNREAL ENGINE](https://github.com/markojuhasz/Cpp-UnrealEngine-ZapisUcenia)
-[UNDER CONSTRUCTION](https://github.com/markojuhasz/Hry-v-UnrealEngine)
+- [C# A UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
+- [VYTVORENÉ HRY V UNITY](https://github.com/markojuhasz/hry-v-unity)
+- [C++ A UNREAL ENGINE](https://github.com/markojuhasz/Cpp-UnrealEngine-ZapisUcenia)
+- [UNDER CONSTRUCTION](https://github.com/markojuhasz/Hry-v-UnrealEngine)
