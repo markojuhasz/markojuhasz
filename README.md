@@ -2,7 +2,7 @@
 - Motivovaný junior C# / C++ programátor s technickým zázemím
 - Programovaniu sa aktívne venujem posledný rok
 - Absolvoval som kurzy C#, C++ a vývoja v prostredí Unreal Engine, Unity, Microsoft Visual Studio a Visual Studio Code
-- Hľadám príležitosť rásť ako C++ vývojár a podieľať sa na vývoji technických riešení.
+- Hľadám príležitosť rásť ako herný vývojár a podieľať sa na vývoji technických riešení.
 
 ## ZRUČNOSTI
 - C++ ( OOP, základy STL )
