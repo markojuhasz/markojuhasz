@@ -1,22 +1,22 @@
-## O MNE 
-- Motivovaný junior C# / C++ programátor s technickým zázemím
-- Programovaniu sa aktívne venujem posledný rok
-- Absolvoval som kurzy C#, C++ a vývoja v prostredí Unreal Engine, Unity, Microsoft Visual Studio a Visual Studio Code
-- Hľadám príležitosť rásť ako herný vývojár a podieľať sa na vývoji technických riešení.
+## ABOUT ME
+- Motivated junior C# / C++ programmer with technical background
+- I have been actively involved in game programming for the past year.
+- I have completed advanced courses in C#, C++, development in Unreal Engine, Unity, Microsoft Visual Studio and Visual Studio Code.
+- I´m looking for an opportunity to grow as a game developer and participate in the development of technical solutions.
 
-## ZRUČNOSTI
-- C++ ( OOP, základy STL )
-- C# ( Základy .NET a LINQ )
-- Základy objektovo orientovaného programovania
-- MSVS ( Spracovanie výnimiek, debug, build )
-- Git ( Základy )
-- Unreal Engine ( C++, OOP, Blueprint )
-- Unity ( Scriptovanie C#, OOP )
-- Základy vectorovej matematiky ( DOT PRODUCT )
-- Náhľad do Entity Component Systému
+## SKILLS
+- C++ ( OOP, Pointers, References, STL basics )
+- C# ( .NET and LINQ basics )
+- Basics of object oriented programming
+- MSVS, VSCode ( Exception handling, debug )
+- Git ( Basics )
+- Unreal Engine ( C++, Blueprints, Working with editor, AI )
+- Unity ( C# scripting, OOP, Working with editor )
+- Basics of vector mathematics ( DOT PRODUCT )
+- Getting to know ECS
 
-## PROJEKTY A UČENIE
-- [C# A UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
-- [VYTVORENÉ HRY V UNITY](https://github.com/markojuhasz/hry-v-unity)
-- [C++ A UNREAL ENGINE](https://github.com/markojuhasz/Cpp-UnrealEngine-ZapisUcenia)
+## PROJECTS AND LEARNING
+- [C# AND UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
+- [GAMES MADE IN UNITY](https://github.com/markojuhasz/hry-v-unity)
+- [C++ AND UNREAL ENGINE](https://github.com/markojuhasz/Cpp-UnrealEngine-ZapisUcenia)
 - [UNDER CONSTRUCTION](https://github.com/markojuhasz/Hry-v-UnrealEngine)
