@@ -14,6 +14,7 @@
 - Unity ( C# scripting, OOP, Working with editor )
 - Basics of vector mathematics ( DOT PRODUCT )
 - Getting to know ECS
+- Currently learning OpenGL
 
 ## PROJECTS AND LEARNING
 - [C# AND UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
