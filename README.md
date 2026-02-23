@@ -6,15 +6,16 @@
 
 ## SKILLS
 - C++ ( OOP, Pointers, References, STL basics )
-- C# ( .NET and LINQ basics )
+- C# ( Basics )
 - Basics of object oriented programming
 - MSVS, VSCode ( Exception handling, debug )
 - Git ( Basics )
 - Unreal Engine ( C++, Blueprints, Working with editor, AI )
 - Unity ( C# scripting, OOP, Working with editor )
 - Basics of vector mathematics ( DOT PRODUCT )
-- Learning Entity Component System
-- Learning OpenGL
+
+## NEXT GOALS 
+- Learn OpenGL
 
 ## PROJECTS AND LEARNING
 - [C# AND UNITY](https://github.com/markojuhasz/Unity-Zapis_Ucenia)
