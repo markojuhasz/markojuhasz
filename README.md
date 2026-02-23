@@ -14,7 +14,7 @@
 - Unity ( C# scripting, OOP, Working with editor )
 - Basics of vector mathematics ( DOT PRODUCT )
 
-## NEXT GOALS 
+## FUTURE GOALS 
 - Learn OpenGL
 
 ## PROJECTS AND LEARNING
