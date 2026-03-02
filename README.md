@@ -8,7 +8,6 @@
 - OOP
 - C#
 - C++ ( Modern C++ 17/20 )
-- STL
 - MSVS, VSCode ( Exception handling, debug )
 - Unreal Engine ( Editor, Blueprints, C++ API, AI )
 - Unity ( Editor, C# scripting )
